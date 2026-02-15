@@ -19,3 +19,15 @@ header {
     padding: 20px;
     text-align: center;
 }
+
+main {
+    padding: 20px;
+}
+
+main section {
+    margin-bottom: 20px;
+}
+
+main h2 {
+    margin-bottom: 10px;
+}
